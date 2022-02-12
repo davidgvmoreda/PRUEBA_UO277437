@@ -6,6 +6,7 @@ public class Prueba2 {
            System.out.println("HolaSDW ");
            System.out.println("Hola soy Master ");
            System.out.println("Hola soy Branch1 ");
+           System.out.println("Hola soy Branch1 ");
 	}
 
 }
